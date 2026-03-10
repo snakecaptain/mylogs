@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://snakecaptain.github.io/mylogs/'
 languageCode = 'en-us'
 title = 'My New Hugo Project'
 theme = 'beautifulhugo'
