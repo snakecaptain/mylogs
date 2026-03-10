@@ -1,17 +1,17 @@
 baseURL = 'https://snakecaptain.github.io/mylogs/'
 languageCode = 'zh-hk'
-title = 'My New Logs'
+title = '原木印記'
 theme = 'beautifulhugo'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 [menus]
   [[menus.main]]
-    name = "Home"
+    name = "主頁"
     url = "/"
     weight = 10
 
   [[menus.main]]
-    name = "Posts"
+    name = "文章"
     url = "/posts/"
     weight = 20
