@@ -1,6 +1,6 @@
 baseURL = 'https://snakecaptain.github.io/mylogs/'
 languageCode = 'en-us'
-title = 'My New Hugo Project'
+title = 'My New Logs'
 theme = 'beautifulhugo'
 [caches]
   [caches.images]
