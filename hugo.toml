@@ -1,7 +1,17 @@
 baseURL = 'https://snakecaptain.github.io/mylogs/'
-languageCode = 'en-us'
+languageCode = 'zh-hk'
 title = 'My New Logs'
 theme = 'beautifulhugo'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+[menus]
+  [[menus.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+
+  [[menus.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
