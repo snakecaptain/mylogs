@@ -5,14 +5,28 @@
     <loc>http://localhost:1313/mylogs/</loc>
     <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mylogs/post/docker20260314/</loc>
+    <loc>http://localhost:1313/mylogs/categories/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/post/docker20260314_1/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/tags/github/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/tags/hugo/</loc>
     <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mylogs/post/</loc>
     <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mylogs/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/mylogs/tags/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/post/docker20260314/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/categories/%E9%9B%BB%E8%85%A6/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url>
 </urlset>

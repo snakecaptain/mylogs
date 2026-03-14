@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>電腦 on 原木印記</title>
-    <link>http://localhost:1313/mylogs/categories/%E9%9B%BB%E8%85%A6/</link>
-    <description>Recent content in 電腦 on 原木印記</description>
+    <title>Github on 原木印記</title>
+    <link>http://localhost:1313/mylogs/tags/github/</link>
+    <description>Recent content in Github on 原木印記</description>
     <generator>Hugo</generator>
     <language>zh-hk</language>
     <lastBuildDate>Sat, 14 Mar 2026 16:53:29 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/mylogs/categories/%E9%9B%BB%E8%85%A6/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/mylogs/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>commit to github</title>
       <link>http://localhost:1313/mylogs/post/docker20260314_1/</link>
       <pubDate>Sat, 14 Mar 2026 16:53:29 +0800</pubDate>
       <guid>http://localhost:1313/mylogs/post/docker20260314_1/</guid>
       <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git add .&#xA;git commit -m &amp;#34;any comments&amp;#34; &#xA;#m = message&#xA;git push origin main&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    <item>
-      <title>新加hugo文章</title>
-      <link>http://localhost:1313/mylogs/post/docker20260314/</link>
-      <pubDate>Sat, 14 Mar 2026 16:53:29 +0800</pubDate>
-      <guid>http://localhost:1313/mylogs/post/docker20260314/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new post/new_post&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
