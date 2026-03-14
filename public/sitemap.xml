@@ -11,6 +11,12 @@
     <loc>http://localhost:1313/mylogs/post/docker20260314_1/</loc>
     <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/mylogs/tags/compose/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/tags/docker/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/mylogs/tags/github/</loc>
     <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
@@ -18,6 +24,9 @@
     <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mylogs/post/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/post/docker20260314_2/</loc>
     <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mylogs/tags/</loc>
