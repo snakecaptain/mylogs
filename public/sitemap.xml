@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/mylogs/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/post/docker20260314/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/mylogs/post/</loc>
+    <lastmod>2026-03-14T16:53:29+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/mylogs/categories/</loc>
   </url><url>
