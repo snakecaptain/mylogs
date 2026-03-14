@@ -5,13 +5,16 @@ theme = 'beautifulhugo'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-[menus]
-  [[menus.main]]
-    name = "主頁"
-    url = "/"
-    weight = 10
+[menu]
 
-  [[menus.main]]
+  [[menu.main]]
+    identifier = "home"
+    name = "首頁"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "blog"
     name = "文章"
-    url = "/posts/"
-    weight = 20
+    url = "/post/"
+    weight = 3
