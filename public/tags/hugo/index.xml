@@ -20,7 +20,7 @@
       <link>http://localhost:1313/mylogs/post/docker20260314/</link>
       <pubDate>Sat, 14 Mar 2026 16:53:29 +0800</pubDate>
       <guid>http://localhost:1313/mylogs/post/docker20260314/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new post/new_post&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new post/new_post.md&#xA;# 告知在content/post裡加入一個new_post.md&#xA;# 預期在content資料夾裡&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>電腦 on 原木印記</title>
-    <link>http://localhost:1313/mylogs/categories/%E9%9B%BB%E8%85%A6/</link>
-    <description>Recent content in 電腦 on 原木印記</description>
+    <title>Shell on 原木印記</title>
+    <link>http://localhost:1313/mylogs/tags/shell/</link>
+    <description>Recent content in Shell on 原木印記</description>
     <generator>Hugo</generator>
     <language>zh-hk</language>
     <lastBuildDate>Sat, 14 Mar 2026 16:53:29 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/mylogs/categories/%E9%9B%BB%E8%85%A6/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>commit to github</title>
-      <link>http://localhost:1313/mylogs/post/docker20260314_1/</link>
-      <pubDate>Sat, 14 Mar 2026 16:53:29 +0800</pubDate>
-      <guid>http://localhost:1313/mylogs/post/docker20260314_1/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git add .&#xA;git commit -m &amp;#34;any comments&amp;#34; &#xA;#m = message&#xA;git push origin main&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/mylogs/tags/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Empty content for a file</title>
       <link>http://localhost:1313/mylogs/post/docker20260314_4/</link>
@@ -28,20 +21,6 @@
       <pubDate>Sat, 14 Mar 2026 16:53:29 +0800</pubDate>
       <guid>http://localhost:1313/mylogs/post/docker20260314_3/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mv -rf folderName&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Remove stopped containers</title>
-      <link>http://localhost:1313/mylogs/post/docker20260314_2/</link>
-      <pubDate>Sat, 14 Mar 2026 16:53:29 +0800</pubDate>
-      <guid>http://localhost:1313/mylogs/post/docker20260314_2/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker container prune&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    <item>
-      <title>新加hugo文章</title>
-      <link>http://localhost:1313/mylogs/post/docker20260314/</link>
-      <pubDate>Sat, 14 Mar 2026 16:53:29 +0800</pubDate>
-      <guid>http://localhost:1313/mylogs/post/docker20260314/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new post/new_post.md&#xA;# 告知在content/post裡加入一個new_post.md&#xA;# 預期在content資料夾裡&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>
