@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Studio Code on 原木印記</title>
+    <link>http://localhost:1313/mylogs/tags/visual-studio-code/</link>
+    <description>Recent content in Visual Studio Code on 原木印記</description>
+    <generator>Hugo</generator>
+    <language>zh-hk</language>
+    <lastBuildDate>Tue, 17 Mar 2026 22:05:34 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/mylogs/tags/visual-studio-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Command Palette in visual studio code</title>
+      <link>http://localhost:1313/mylogs/post/visualstudio20260317/</link>
+      <pubDate>Tue, 17 Mar 2026 22:05:34 +0800</pubDate>
+      <guid>http://localhost:1313/mylogs/post/visualstudio20260317/</guid>
+      <description>&lt;p&gt;command + shift + p&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

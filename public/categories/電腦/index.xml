@@ -6,8 +6,22 @@
     <description>Recent content in 電腦 on 原木印記</description>
     <generator>Hugo</generator>
     <language>zh-hk</language>
-    <lastBuildDate>Sat, 14 Mar 2026 16:53:29 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 22:05:34 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/mylogs/categories/%E9%9B%BB%E8%85%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Command Palette in visual studio code</title>
+      <link>http://localhost:1313/mylogs/post/visualstudio20260317/</link>
+      <pubDate>Tue, 17 Mar 2026 22:05:34 +0800</pubDate>
+      <guid>http://localhost:1313/mylogs/post/visualstudio20260317/</guid>
+      <description>&lt;p&gt;command + shift + p&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTTP requests</title>
+      <link>http://localhost:1313/mylogs/post/dart1/</link>
+      <pubDate>Mon, 16 Mar 2026 23:07:28 +0800</pubDate>
+      <guid>http://localhost:1313/mylogs/post/dart1/</guid>
+      <description>&lt;p&gt;要有HTTP requests的功能&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;加入dependencies:&#xA;pubspec.yaml&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-dart&#34; data-lang=&#34;dart&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;dependencies:&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  http: &lt;span style=&#34;color:#f92672&#34;&gt;^&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1.3&lt;/span&gt;.&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt; &#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;&#xA;&lt;li&gt;Depend on it&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;dart pub add http&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Import it&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code class=&#34;language-dart&#34; data-lang=&#34;dart&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;package:http/http.dart&amp;#39;&lt;/span&gt;;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>commit to github</title>
       <link>http://localhost:1313/mylogs/post/docker20260314_1/</link>
